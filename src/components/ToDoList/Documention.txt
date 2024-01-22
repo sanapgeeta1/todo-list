@@ -1,0 +1,23 @@
+Commands used:
+
+1. creating new react app
+
+npx create-react-app todo-app
+cd todo-app
+npm start
+
+2. Creating New Componant
+npm g Componant ToDoList
+
+3. Installing react bootstrap
+npm install react-bootstrap bootstrap
+
+4. Installing React Icons
+npm i react-icons --save
+
+5. Installing jest framework for testing
+npm install --save-dev react-test-renderer
+
+6. run test cases
+npm run test
+
